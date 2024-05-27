@@ -1,0 +1,9 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/main/java/com/example/userregistration/api/ApiApi.java
+src/main/java/com/example/userregistration/api/ApiUtil.java
+src/main/java/com/example/userregistration/model/InlineResponse400.java
+src/main/java/com/example/userregistration/model/Phone.java
+src/main/java/com/example/userregistration/model/UserRequest.java
+src/main/java/com/example/userregistration/model/UserResponse.java
